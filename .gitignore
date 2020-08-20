@@ -1,3 +1,8 @@
+# Personal in-take database, will be created if it does not exist
+.msqlite3
+
+# The following is the default file for Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
